@@ -1,0 +1,9 @@
+
+
+Var can be redeclared and reassigned. Let can be reassigned but not redeclared.
+
+Const cannot be reassigned or redeclared while var can do both.
+
+Let can be reassigned but not redeclared. Const cannot not do neither. 
+
+Hoisting is used to describe how the JS compiler works. Var keywords are hoisted to the top of the scope and are run first. 
